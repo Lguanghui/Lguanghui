@@ -7,4 +7,4 @@
 
 - 🔭 I’m currently working on iOS development.
 - 📫 My Email: liangguanghui@buaa.edu.cn
-- 🏠 My Personal Website: [liangguanghui.site](liangguanghui.site)
+- 🏠 My Personal Website: [liangguanghui.site](www.liangguanghui.site)
