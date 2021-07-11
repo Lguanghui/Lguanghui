@@ -1,4 +1,4 @@
-### Hi, Welcome to Liang Guanghui's Github Repositories 👋
+### Hey, Welcome to Liang Guanghui's Github Repositories 👋
 ### 嗨，欢迎来到我的GitHub个人页
 
 <!--
