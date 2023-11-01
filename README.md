@@ -8,4 +8,4 @@
 - 📷 fan of photography
 - 🌃 night owl
 - 📫 email: liangguanghui@buaa.edu.cn, meetguanghuiliang@gmail.com
-- 🏠 website: [liangguanghui.site](https://liangguanghui.site) [ghost](https://star.ghost.io)
+- 🏠 website: [liangguanghui.site](https://liangguanghui.site)
