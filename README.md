@@ -6,6 +6,6 @@
 
 - 🍎 iOS developer
 - 📷 fan of photography
-- 🌃 night owl
+- 📖 reader
 - 📫 email: liangguanghui@buaa.edu.cn, meetguanghuiliang@gmail.com
 - 🏠 website: [liangguanghui.site](https://liangguanghui.site)
