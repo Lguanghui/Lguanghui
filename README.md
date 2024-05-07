@@ -8,4 +8,4 @@
 - 🤯 blogger
 - 📖 reader
 - 📫 email: liangguanghui@buaa.edu.cn, meetguanghuiliang@gmail.com
-- 🏠 website: [liangguanghui.site](https://liangguanghui.site)
+- 🏠 website: [liangguanghui.com](https://liangguanghui.com) [liangguanghui.site](https://liangguanghui.site)
