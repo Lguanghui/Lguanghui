@@ -1,4 +1,4 @@
-### Hello 👋, I'm Guanghui Liang.
+### Hello 👋, I'm Gray.
 
 <!--
 **Lguanghui/Lguanghui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
