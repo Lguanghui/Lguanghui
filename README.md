@@ -10,6 +10,14 @@
 - 📫 email: liangguanghui@buaa.edu.cn, meetguanghuiliang@gmail.com
 - 🏠 website: [liangguanghui.com](https://liangguanghui.com) [liangguanghui.site](https://liangguanghui.site)
 
+<!--
+https://github.com/anuraghazra
+-->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-steel-chi.vercel.app/api?username=Lguanghui&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Gray's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-steel-chi.vercel.app/api/top-langs/?username=Lguanghui&hide=c%23,powershell,Jupyter%20Notebook,Mathematica,Cuda&layout=compact&theme=buefy&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,Lguanghui.github.io&langs_count=8" /></a> |
+| ------------- | ------------- |
+
+<!--
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
 <hr>
 <h2 align="center">⚡️ My Github Stats ⚡</h2>
 <br>
@@ -32,3 +40,4 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lguanghui&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+-->
