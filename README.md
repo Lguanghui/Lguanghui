@@ -52,7 +52,7 @@ https://github.com/anuraghazra
 
   <tr>
     <td width="110" align="center">
-      <a href="https://apps.apple.com/us/app/oceandashboard/id6754645272?l=zh-Hans-CN">
+      <a href="https://apps.apple.com/cn/app/oceandashboard/id6754645272">
         <img
           src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/7b/fb/cd7bfb4a-aa40-bf9c-1303-a1b82910d7df/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg"
           width="88"
@@ -63,7 +63,7 @@ https://github.com/anuraghazra
     </td>
     <td>
       <h3>
-        <a href="https://apps.apple.com/us/app/oceandashboard/id6754645272?l=zh-Hans-CN">
+        <a href="https://apps.apple.com/cn/app/oceandashboard/id6754645272">
           Ocean Dashboard
         </a>
       </h3>
@@ -71,7 +71,7 @@ https://github.com/anuraghazra
         A native companion app for monitoring and managing DigitalOcean resources,
         including Droplets, performance metrics, alerts and billing information.
       </p>
-      <a href="https://apps.apple.com/us/app/oceandashboard/id6754645272?l=zh-Hans-CN">
+      <a href="https://apps.apple.com/cn/app/oceandashboard/id6754645272">
         <img
           src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/zh-cn?size=250x83"
           height="40"
